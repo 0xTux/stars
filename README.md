@@ -59,6 +59,7 @@
 
 ## Go 
 
+- [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS) - Spoof TLS/JA3 fingerprints in GO and Javascript
