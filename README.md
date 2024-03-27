@@ -19,6 +19,7 @@
 - [Lua](#lua)
 - [Nix](#nix)
 - [Others](#others)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -150,6 +151,10 @@
 - [AlphaTechnolog/dotfiles](https://github.com/AlphaTechnolog/dotfiles) - A repository that contains a collection of various rices that i made over the time
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 
+## PowerShell 
+
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+
 ## Python 
 
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
@@ -193,6 +198,7 @@
 
 ## TypeScript 
 
+- [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - A powerful cross-platform UI toolkit for building actually native iOS, Android, macOS, Windows, Linux, and Progressive Web Apps with React (Native).
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
